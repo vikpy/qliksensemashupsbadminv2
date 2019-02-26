@@ -1,0 +1,15 @@
+{
+	"type": "mashup",
+	"name": "consumer",
+	"description": "Mashup using cover page template and sb admin v2 template in bootstrap",
+	"homepage": "",
+	"author": "Vikraant Pai",
+	"version": "1.0.0",
+	"preview": "preview.png",
+	"keywords": "qlik-sense, mashup",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
